@@ -24,7 +24,8 @@ int main(int argc, char** argv) {
                     printf("File not found: the specified file was not found");
                     return 1;
                 } else {
-
+                    // TODO: do the syntax analysis here:
+                    
                 }
             }
         } else {
